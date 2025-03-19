@@ -1,0 +1,4 @@
+<view class="container">
+  <button bindtap="sayHello">Click Me</button>
+  <text class="output">{{message}}</text>
+</view>
